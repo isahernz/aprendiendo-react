@@ -9,3 +9,9 @@ body {
   background: #121212;
   color: #fff;
 }
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
